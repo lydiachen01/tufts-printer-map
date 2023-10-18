@@ -9,5 +9,3 @@ Current Software: OpenStreetMap API, Leaflet.JS, HTML/CSS, Typescript, REACT
 Start Date: October 15, 2023
 
 End Date: TBD
-
-ok whatever
